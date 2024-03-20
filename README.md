@@ -9,7 +9,7 @@
 </table>
 
 
-[![Antonios's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniohof&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Antonios's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniohof&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🚀Find me on linkedin:
