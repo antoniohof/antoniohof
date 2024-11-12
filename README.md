@@ -3,10 +3,11 @@
 <table>
   <tr>
     <td>
-       <a href="http://www.github.com/antoniohof"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniohof&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniohof&layout=compact&langs_count=7&theme=dark"/>
+       <a href="http://www.github.com/antoniohof"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniohof&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniohof&layout=compact&langs_count=7&theme=dark"/>
 
+       </a>
+    </td>
   </tr>
 </table>
 
